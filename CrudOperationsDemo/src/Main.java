@@ -67,7 +67,7 @@ public class Main {
         Connection conn = null;
         Scanner scanner = new Scanner(System.in);
         try {
-            String url="";
+            String url= "jdbc:sqlserver://sql-books-store-dev-001.database.windows.net:1433;database=sqldb-books-store-dev-001;user=demouser@sql-books-store-dev-001.database.windows.net;password=Sample@123$;encrypt=true;hostNameInCertificate=*.database.windows.net;loginTimeout=30;";
             conn = DriverManager.getConnection(url);
             boolean exit = false;
             while (!exit) {

@@ -31,6 +31,10 @@
 ### Connecting to SQL Server and Database hosted in Azure using VSCode
 ![Sql Azure|150x150](./Documentation/Images/ConnectingSqlServerUsingVSCode.PNG)
 
+## ZZZ Operations
+![Sql Azure|150x150](./Documentation/Images/CRUD.PNG)
+
+
 
 ## Calculator Using JavaFX 
 
