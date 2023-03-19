@@ -75,7 +75,7 @@ To use this calculator app, you can follow the steps below:
 
 ## Design 
 
-![Calculator|20x20](./Documentation/Images/Calculator.PNG)
+![Calculator|20x50](./Documentation/Images/Calculator.PNG)
 
 ## Code Description
 
