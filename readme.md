@@ -80,5 +80,6 @@ To use this calculator app, you can follow the steps below:
 ## Code Description
 
 > 1. Create Main class which extend Application and override start method.(https://github.com/visakamallavarun/ms-mar-2023-demo/blob/main/calculator/src/main/java/com/example/calculator/HelloApplication.java)
-> 2. Create a Controller class which is used to evaluate the actions performed. Create a method to evalute the 
-
+> 2. Create a Controller class which is used to evaluate the actions performed. Create a method to evalute the input expression.(https://github.com/visakamallavarun/ms-mar-2023-demo/blob/main/calculator/src/main/java/com/example/calculator/HelloController.java)
+> 3. Create a FXML File and open the file in SceneBuilder and generate the UI for the calculator.(https://github.com/visakamallavarun/ms-mar-2023-demo/blob/main/calculator/src/main/resources/com/example/calculator/hello-view.fxml)
+> 4. Create a CSS file to style the FXML file.(https://github.com/visakamallavarun/ms-mar-2023-demo/blob/main/calculator/src/main/resources/com/example/calculator/style.css)
