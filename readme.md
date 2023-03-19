@@ -16,7 +16,15 @@
 
 ## Pull Request process, Continues Integration and Continues Delivery
 
+**References:**
+> 1. [https://learn.microsoft.com/en-us/azure/devops/repos/git/about-pull-requests?view=azure-devops](https://learn.microsoft.com/en-us/azure/devops/repos/git/about-pull-requests?view=azure-devops)
+> 1. [https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/devops-dotnet-baseline](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/devops-dotnet-baseline)
+
+
 ![Sql Azure|150x150](./Documentation/Images/PR-CI-CD.PNG)
+
+![Sql Azure|150x150](./Documentation/Images/PRinGitHub.PNG)
+
 
 ## CRUD Operations with JDBC and Azure SQL Server
 
