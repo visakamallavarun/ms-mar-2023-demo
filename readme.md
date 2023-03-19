@@ -39,7 +39,7 @@
 ### Connecting to SQL Server and Database hosted in Azure using VSCode
 ![Sql Azure|150x150](./Documentation/Images/ConnectingSqlServerUsingVSCode.PNG)
 
-## ZZZ Operations
+## Update and Read Operations
 ![Sql Azure|150x150](./Documentation/Images/CRUD.PNG)
 
 
